@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ICOExporterPro.png" alt="ICO Export Pro icon" width="128">
+</p>
+
 # ICO Export Pro
 
 A Figma plugin that exports frames as Windows `.ico` files. Each selected frame becomes a single multi-size ICO — ready to use as a `favicon.ico` or a Windows application icon.
